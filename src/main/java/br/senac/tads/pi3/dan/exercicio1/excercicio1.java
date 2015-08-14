@@ -11,7 +11,7 @@ package br.senac.tads.pi3.dan.exercicio1;
  */
 public class excercicio1 {
     public static void main(String[] args) {
-        System.out.println("ola1");
+        System.out.println("ola");
     }
     
 }
